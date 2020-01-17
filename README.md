@@ -8,8 +8,8 @@
   
 ### install
 ```csharp
-installutil CSSD.Print.WinService.exe
+installutil.exe CSSD.Print.WinService.exe
 ```
 
 ### uninstall
-installutil CSSD.Print.WinService.exe /u
+installutil.exe CSSD.Print.WinService.exe /u
