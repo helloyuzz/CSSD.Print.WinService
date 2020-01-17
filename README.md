@@ -12,4 +12,6 @@ installutil.exe CSSD.Print.WinService.exe
 ```
 
 ### uninstall
+```dos
 installutil.exe CSSD.Print.WinService.exe /u
+```
